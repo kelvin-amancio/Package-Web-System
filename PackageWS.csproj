@@ -4,6 +4,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+   <PackageId>PackageWebSystem</PackageId>
+	 <Version>1.0.1</Version>
+	 <Authors>Kelvin de Almeida Amancio</Authors>
+	 <Company>WebSystem</Company>
+	 <RepositoryUrl>https://github.com/kelvin-amancio/Package-Web-System</RepositoryUrl>
+	 <PackageProjectUrl>https://github.com/kelvin-amancio/Package-Web-System</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
